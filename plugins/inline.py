@@ -26,11 +26,11 @@ from youtubesearchpython import VideosSearch
 
 buttons = [
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/AsmSupport"),
+                InlineKeyboardButton("Resmi", url="https://t.me/X_FEDD"),
+                InlineKeyboardButton("Sahib 👑", url="https://t.me/Mr_KABUS_13"),
             ],
             [
-                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://github.com/AsmSafone/VideoPlayerBot"),
+                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://github.com/paranoya666/VideoPlayerBot"),
             ]
          ]
 
