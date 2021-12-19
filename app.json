@@ -52,7 +52,9 @@
       },
       "REPLY_MESSAGE": {
         "description": "A reply message to those who message the USER account in PM. Make it blank if you do not need this feature.",
-        "value": "Hello Sir, I'm a bot to stream videos on telegram voice chat, not having time to chat with you 😂!",
+        "value": "Salam Cənab, mən @Mr_KABUS_13 Tərəfindən yaradılmış teleqram səsli çatında video yayımlayan botam, sizinlə söhbət etməyə vaxtım yoxdur😂!",
+
+        !",
         "required": false
       }
     },
@@ -64,7 +66,7 @@
     },
     "buildpacks": [
       {
-        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        "url": "https://github.com/paranoya666/heroku-buildpack-ffmpeg-latest"
       },
       {
         "url": "heroku/python"
